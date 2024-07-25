@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/landing-page-doceria/static/css/main.e6c13ad2.css",
+    "main.js": "/landing-page-doceria/static/js/main.03a50337.js",
+    "static/media/hero.png": "/landing-page-doceria/static/media/hero.ef2c2275a45333291c60.png",
+    "static/media/brigadeiro.png": "/landing-page-doceria/static/media/brigadeiro.7c6cd7fddec6057cbdc9.png",
+    "static/media/kit1.png": "/landing-page-doceria/static/media/kit1.dbf6d7e3662c0cb879b8.png",
+    "static/media/brownie.png": "/landing-page-doceria/static/media/brownie.d0f9241b1d421df31f93.png",
+    "static/media/kit2.png": "/landing-page-doceria/static/media/kit2.2ae8b688657dd3ad624a.png",
+    "static/media/bolo.png": "/landing-page-doceria/static/media/bolo.02acb3da4fe5b165fb93.png",
+    "static/media/logo.png": "/landing-page-doceria/static/media/logo.a473095c24222bdde41c.png",
+    "index.html": "/landing-page-doceria/index.html",
+    "main.e6c13ad2.css.map": "/landing-page-doceria/static/css/main.e6c13ad2.css.map",
+    "main.03a50337.js.map": "/landing-page-doceria/static/js/main.03a50337.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.03a50337.js"
+  ]
+}
