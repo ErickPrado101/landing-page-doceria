@@ -16,7 +16,11 @@ const Hero = () => {
         color: "#fff",
         position: "relative",
         overflow: "hidden",
-        marginTop: "15px",
+        marginTop: {
+          xs: "30px",  
+          sm: "10px",  
+          md: "10px",          
+        },
       }}
     >
       <Box
