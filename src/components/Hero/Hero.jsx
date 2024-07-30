@@ -16,6 +16,7 @@ const Hero = () => {
         color: "#fff",
         position: "relative",
         overflow: "hidden",
+        marginTop: "15px",
       }}
     >
       <Box
@@ -54,7 +55,7 @@ const Hero = () => {
             marginTop: '15px',
           }}
         >
-          Delícias refinadas com a essência do fitness e o valor imbatível
+          Delícias refinadas e o valor imbatível
         </Typography>
         <Typography
           variant="h6"
@@ -78,6 +79,14 @@ const Hero = () => {
             color: "#ffffff",
             marginLeft: 8,
             padding: "1rem 2rem",
+            margin: "0 auto",
+            
+            '&:hover': {
+              backgroundColor: "#000000", 
+            },
+            '&:active': {
+              backgroundColor: "#000000",
+            },
           }}
           href="https://wa.me/5527988433909?text=Quero%20saber%20quais%20doces%20voc%C3%AA%20tem%20e%20quais%20os%20valores%20deles%F0%9F%98%8B"
         >
